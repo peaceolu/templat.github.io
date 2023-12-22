@@ -1,0 +1,61 @@
+
+.div1 {
+    
+    height: 400px;
+    width:100%;
+    background:url(rockbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+	text-decoration: none;
+}
+
+nav a{
+	padding: 10px;
+	margin-left: 15px;
+	float: right;
+	margin-right: 30px;
+}
+.div11{
+	text-align: center;
+	margin-top: 40px;
+	padding-top: 30px;
+}
+.resp{
+	padding: 10px;
+}
+
+
+.div2{
+
+	font-family:Sitka Heading;
+	margin-left: 90px;
+	margin-right: 90px;
+	border: 1px solid white;
+	padding: 20px;
+
+}
+.div2h{
+	text-align: center;
+}
+.clearfix{
+
+	overflow: auto;
+	margin-top: 40px;
+	padding: 10px;
+}
+.div5{
+
+	
+	font-family:Sitka Heading;
+	justify-content: center;
+	border: 1px solid white;
+	padding: 10px;
+
+	align-items: center;
+
+
+
+}
+
